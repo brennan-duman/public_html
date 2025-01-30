@@ -1,0 +1,15 @@
+body {
+    background-color: #f4f5fbff;
+    font-family:'Times New Roman', Times, serif;
+    color: #001743;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+    line-height: 2;
+}
